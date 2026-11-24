@@ -1,0 +1,1 @@
+name address career summary,-> work experience->special skill->technical skill->education->language skill-> personal information-> dob, signature
